@@ -1,4 +1,4 @@
-📦 E-Commerce Application
+📦 **E-Commerce Application**
 Complete Windows Forms Application with 3-Tier Architecture & Oracle Database Integration
 
 This project is the final deliverable for the E-Commerce Application. It includes a fully functional Windows Forms GUI, complete business logic tier, data access tier, and Oracle database integration with stored procedures. The system supports multiple user roles, secure access control, and complete CRUD operations for products, orders, inventory, and delivery tasks.
